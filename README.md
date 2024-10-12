@@ -21,7 +21,7 @@ The **QR Code Generator Extension** allows users to quickly generate QR codes fr
 
 ## Introduction
 
-This Chrome extension is a lightweight and intuitive tool designed to create QR codes from any given URL. With a minimalistic and responsive user interface, users can quickly enter the URL and generate a corresponding QR code. This extension is built using HTML, CSS, JavaScript, and utilizes the [QRCode.js library](https://github.com/davidshimjs/qrcodejs) for generating QR codes.
+This Chrome extension is a lightweight and intuitive tool designed to create QR codes from any given URL. With a minimalistic and responsive user interface, users can quickly enter the URL and generate a corresponding QR code. This extension is built using HTML, CSS, and JavaScript, and utilizes the [QRCode.js library](https://github.com/davidshimjs/qrcodejs) for generating QR codes.
 
 ---
 
@@ -86,3 +86,8 @@ Follow these steps to install and run the QR Code Generator Chrome Extension:
 
 ---
 
+## Help
+If you have any questions or need assistance, feel free to email me at parulraut0110@gmail.com or reach out to me on GitHub at parulraut0110.
+
+## License
+This project is licensed under the MIT License. You are more than welcome to use, modify, and distribute this project as long as you give the credit.
