@@ -41,3 +41,48 @@ Here is the overall structure of the project:
 └── qrcode.min.js
 
 ```
+
+
+
+1. **background.js**: (Empty) Reserved for background functionality in the future.
+2. **icon.png**: The icon displayed for the extension.
+3. **manifest.json**: Metadata file that describes the extension.
+4. **popup.html**: The popup window's user interface with an input field, button, and description.
+5. **popup.js**: JavaScript logic to handle user input and QR code generation.
+6. **qrcode.min.js**: The external library for generating QR codes.
+
+---
+
+## Technologies Used
+
+The following technologies and tools were used in the development of the QR Code Generator Extension:
+
+- **HTML5**: For structuring the popup interface.
+- **CSS3**: For styling the extension's popup.
+- **JavaScript**: For user interactions and logic.
+- **QRCode.js**: An external library for generating QR codes in the browser.
+- **Chrome Extensions API**: To create and manage the browser extension.
+  
+---
+
+## Functionalities
+
+1. **URL Input**: Users can enter any valid URL in the input field.
+2. **QR Code Generation**: After clicking the "Generate QR Code" button, a QR code is dynamically generated and displayed.
+3. **Aesthetic Popup**: A user-friendly popup window with responsive design, providing a clean and simple layout.
+4. **Clear QR Code on Input Change**: If a new URL is entered, the previous QR code is cleared and a new one is generated.
+
+---
+
+## How to Install
+
+Follow these steps to install and run the QR Code Generator Chrome Extension:
+
+1. Clone the repository to your local machine or download the zip file.
+2. Go to `chrome://extensions/` in your Chrome browser.
+3. Enable **Developer Mode** by toggling the switch in the top-right corner.
+4. Click on **Load unpacked** and select the folder containing the extension files.
+5. The extension will now be visible in your Chrome toolbar, and you can click the icon to open the popup and generate QR codes!
+
+---
+
