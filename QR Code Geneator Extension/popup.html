@@ -3,21 +3,62 @@
 <head>
   <title>QR Code Generator</title>
   <style>
-    body { font-family: Arial, sans-serif; text-align: center; width: 300px; }
-    input { width: 100%; padding: 8px; margin-bottom: 10px; }
-    button { padding: 8px 16px; margin-top: 10px; }
-    #qrcodeCanvas { margin-top: 20px; width: 256px; height: 256px; } /* Space for QR code */
+    body {
+      font-family: Arial, sans-serif; 
+      text-align: center; 
+      width: 320px; 
+      background-color: #f0f0f0; 
+      border-radius: 8px; 
+      padding: 20px; 
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 14px;
+      margin-bottom: 20px;
+      color: #666;
+    }
+    input {
+      width: calc(100% - 20px); /* Adjusted width for padding */
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 16px;
+    }
+    button {
+      padding: 10px 20px;
+      margin-top: 10px;
+      font-size: 16px;
+      background-color: #28a745;
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      transition: background-color 0.3s;
+    }
+    button:hover {
+      background-color: #218838;
+    }
+    #qrcodeCanvas {
+      margin-top: 20px;   
+      width: 256px; 
+      height: 256px;   
+      display: inline-block; /* Center align */
+    }
   </style>
 </head>
 <body>
-  <h1>QR Code</h1>
+  <h1>QR Code Generator</h1>
+  <p>Enter a URL below to generate a QR code. Scan it with your mobile device!</p>
   <input type="text" id="urlInput" placeholder="Enter URL" />
   <button id="generateBtn">Generate QR Code</button>
   <div id="qrcodeCanvas"></div>
 
-  <!-- Include the local QRCode library -->
   <script src="qrcode.min.js"></script>
   <script src="popup.js"></script>
 </body>
 </html>
-  

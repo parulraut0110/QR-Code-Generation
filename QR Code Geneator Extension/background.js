@@ -1,1 +1,4 @@
-// background.js (can be empty for this extension)
+chrome.runtime.onInstalled.addListener(() => {
+    console.log("QR Code Generator Extension Installed");
+  });
+  
