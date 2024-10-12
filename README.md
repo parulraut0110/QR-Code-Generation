@@ -85,9 +85,12 @@ Follow these steps to install and run the QR Code Generator Chrome Extension:
 5. The extension will now be visible in your Chrome toolbar, and you can click the icon to open the popup and generate QR codes!
 
 ---
+## License
+This project is licensed under the MIT License. You are more than welcome to use, modify, and distribute this project as long as you give the credit.
+
+---
 
 ## Help
 If you have any questions or need assistance, feel free to email me at parulraut0110@gmail.com or reach out to me on GitHub at parulraut0110.
 
-## License
-This project is licensed under the MIT License. You are more than welcome to use, modify, and distribute this project as long as you give the credit.
+
