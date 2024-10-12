@@ -1,14 +1,5 @@
 # QR-Code-Generation
 
-# QR Code Generator Extension
-
----
-
-**Username**: [parulraut0110](https://github.com/parulraut0110)  
-**Email**: parulraut0110@gmail.com
-
----
-
 ## Index
 
 1. [Description](#description)
