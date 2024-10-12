@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QR Code Generator</title>
+  <script src="/qrcode.min.js"></script> 
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      width: 300px;
+      padding: 10px;
+    }
+    h2 {
+      text-align: center;
+    }
+    #qr-canvas {
+      display: block;
+      margin: 0 auto;
+      border: 1px solid #ccc;
+      padding: 5px;
+    }
+    input[type="text"], button {
+      width: 100%;
+      padding: 8px;
+      margin: 5px 0;
+    }
+    button {
+      background-color: #007bff;
+      color: white;
+      border: none;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #0056b3;
+    }
+    #qr-result {
+      margin-top: 15px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <h2>QR Code Generator</h2>
+  <input type="text" id="custom-text" placeholder="Enter custom text here" />
+  <button id="generate-custom">Generate QR Code</button>
+  <button id="generate-url">Generate QR Code for Current Tab</button>
+  
+  <canvas id="qr-canvas" width="256" height="256"></canvas>
+  
+  <div id="qr-result"></div>
+
+  <script src="popup.js"></script> <!-- This should remain unchanged -->
+</body>
+</html>
