@@ -76,7 +76,7 @@ The following technologies and tools were used in the development of the QR Code
 
 ## Output 
 
-![image](https://github.com/user-attachments/assets/a5d0d93e-c2e3-431e-8c2b-2b0dc42d8f29)
+![image](https://github.com/user-attachments/assets/2837787e-a8e7-4e17-92d1-3e9b07b3c010)
 
 ---
 
