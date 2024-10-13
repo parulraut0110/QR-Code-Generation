@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Date]
+**Effective Date:** 13-10-2024
 
 This privacy policy outlines how the **QR Code Generator Extension** collects, uses, and protects any information you provide while using the extension. We are committed to ensuring that your privacy is protected.
 
@@ -28,4 +28,3 @@ We reserve the right to update this privacy policy at any time. Any changes will
 ---
 
 If you have any questions or concerns about this privacy policy, feel free to contact us at [parulraut0110@gmail.com].
-
