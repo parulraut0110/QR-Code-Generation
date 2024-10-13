@@ -87,7 +87,7 @@ Follow these steps to install and run the QR Code Generator Chrome Extension:
 ---
 ## LICENSE
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](https://github.com/your-repository/your-project/blob/main/LICENSE.md) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md]((https://github.com/parulraut0110/QR-Code-Generation/blob/main/LICENSE.md)) file for details.
 
 ---
 
