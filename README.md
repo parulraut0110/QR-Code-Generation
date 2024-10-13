@@ -93,7 +93,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## Privacy Policy
 
-You can view the full privacy policy [here](https://github.com/parulraut0110/QR-Code-Generation/blob/main/Privacy%20Policy.md).
+You can view the full privacy policy [here](https://github.com/parulraut0110/QR-Code-Generation/blob/main/LICENSE.md).
 
 ---
 
