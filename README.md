@@ -90,6 +90,12 @@ This project is licensed under the MIT License. You are more than welcome to use
 
 ---
 
+## Privacy Policy
+
+You can view the full privacy policy [here](https://github.com/parulraut0110/QR-Code-Generation/blob/main/Privacy%20Policy.md).
+
+---
+
 ## Help
 If you have any questions or need assistance, feel free to email me at parulraut0110@gmail.com or reach out to me on GitHub at parulraut0110.
 
