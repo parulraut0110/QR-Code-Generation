@@ -96,6 +96,8 @@ Follow these steps to install and run the QR Code Generator Chrome Extension:
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE.md](https://github.com/parulraut0110/QR-Code-Generation/blob/main/LICENSE.md) file for details.
 
+The icon used in this project is also licensed under the [Flaticon](https://github.com/parulraut0110/QR-Code-Generation/blob/main/icon-licence.pdf).
+
 ---
 
 ## Privacy Policy
@@ -106,5 +108,12 @@ You can view the full privacy policy [here](https://github.com/parulraut0110/QR-
 
 ## Help
 If you have any questions or need help, please email me at parulraut0110@gmail.com or reach out to me on GitHub at parulraut0110.
+
+## Developer Information
+**Developer**: Parul Raut  
+**Email**: parulraut0110@gmail.com  
+**Published Extension**: [DarkModeExtension on Chrome Web Store](https://chromewebstore.google.com/detail/darkmodeextension/jcgmljkndiijbonfbbhibbfidmbdojfl?authuser=2)
+
+
 
 
