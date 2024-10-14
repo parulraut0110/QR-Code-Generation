@@ -1,4 +1,5 @@
 # QR-Code-Generation
+published link :- [here](https://chromewebstore.google.com/detail/qr-code-generator/jipbelmhbkpjmhjlpngmlnncclfgpnhe)
 
 ## Index
 
@@ -87,7 +88,7 @@ Follow these steps to install and run the QR Code Generator Chrome Extension:
 1. Clone the repository to your local machine or download the zip file.
 2. Go to `chrome://extensions/` in your Chrome browser.
 3. Enable **Developer Mode** by toggling the switch in the top-right corner.
-4. Click on **Load unpacked** and select the folder containing the extension files.
+4. Click on **Load unpacked** and select the extension file folder.
 5. The extension will now be visible in your Chrome toolbar, and you can click the icon to open the popup and generate QR codes!
 
 ---
@@ -104,6 +105,6 @@ You can view the full privacy policy [here](https://github.com/parulraut0110/QR-
 ---
 
 ## Help
-If you have any questions or need assistance, feel free to email me at parulraut0110@gmail.com or reach out to me on GitHub at parulraut0110.
+If you have any questions or need help, please email me at parulraut0110@gmail.com or reach out to me on GitHub at parulraut0110.
 
 
