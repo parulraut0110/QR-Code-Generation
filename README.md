@@ -1,6 +1,7 @@
 # QR-Code-Generation
 You can use this extension directly in your browser by clicking [here](https://chromewebstore.google.com/detail/qr-code-generator/jipbelmhbkpjmhjlpngmlnncclfgpnhe).
 
+---
 ## Index
 
 1. [Description](#description)
