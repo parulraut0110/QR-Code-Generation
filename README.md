@@ -4,6 +4,7 @@ You can use this extension directly in your browser by clicking [here](https://c
 ---
 ## Index
 
+
 1. [Description](#description)
 2. [Introduction](#introduction)
 3. [Project Structure](#project-structure)
